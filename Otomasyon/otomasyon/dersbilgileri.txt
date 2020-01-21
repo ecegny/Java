@@ -1,0 +1,8 @@
+BMG101 500 A Bilgisayar Muhendisligine Giris B
+JP11 500 A Java Programming B
+ITP01 500 A Introduction to Programming B
+DIFF101 503 A Differantial Equations B
+CAL1 502 A Calculus 1 B
+OVI101 502 A Olasilik ve Istatistik B
+LDT201 503 A Lojik Devre Tasarimi B
+MBA32 500 A Mobile Applications B
